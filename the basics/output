@@ -1,0 +1,19 @@
+// @author Alexander Koros Larlee
+
+// basic output for Java
+
+System.out.print();
+
+// if an output is wanted to be text then parnthses must be added
+
+System.out.print("");
+
+// if the output is wanted on a seperate line form the pervious then after print "ln" must be added
+
+System.out.println();
+
+// if the information is stor4ed in a variable then the variable should be used without the parentheses
+
+System.out.print(/* insert variable here */);
+
+// that is the end of the output lesson 
